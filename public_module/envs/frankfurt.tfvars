@@ -1,5 +1,5 @@
 region = "eu-central-1"
-vpc_name = "oregon"
+vpc_name = "frankfurt"
 vpc_cidr = "10.0.0.0/16"
 private_subnet1 = "10.0.1.0/24"
 private_subnet2 = "10.0.2.0/24"
